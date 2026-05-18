@@ -1,0 +1,13 @@
+name = "Mutated Items"
+filename = "Mutated-Items-2.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ouZuwzKC/versions/GoQXE0nW/Mutated-Items-2.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c63895aba1b45f78a8850418b5ed5ba8df52a7d2b92dab4897a7a7071e5bebbe4c88541dea51c901f07f46d3a5fca4f8ad0b35f79c811ad1fef6617fe66cfa57"
+
+[update]
+[update.modrinth]
+mod-id = "ouZuwzKC"
+version = "GoQXE0nW"

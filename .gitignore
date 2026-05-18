@@ -1,6 +1,6 @@
-# Skompilowane pliki modów - binarne JARy nie lądują w repo
+# JARy poza mods-cdn nie lądują w repo
 *.jar
-!_template/
+!mods-cdn/*.jar
 
 # Cache packwiz
 .packwiz-cache/

@@ -1,0 +1,13 @@
+name = "Arc Lib"
+filename = "arc-1.9.5-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3eKhxi7/versions/GkoQyiOE/arc-1.9.5-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "24173346a8f8332ad0b6925ffaaa6f6d1616f3a3fef2030bb618bb3a69732fe94d585e526c90e3801b67474c30ebe3d64a8a989e361392cd7f519ae1220811d2"
+
+[update]
+[update.modrinth]
+mod-id = "H3eKhxi7"
+version = "GkoQyiOE"
