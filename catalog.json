@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "updated": "2026-05-18T14:53:48.835120+00:00",
+  "updated": "2026-05-18T15:13:58.090416+00:00",
   "packs": [
+    {
+      "id": "latajacy-statek",
+      "notion_id": "3500edd4-876a-8090-b26a-ce21c04b8a07",
+      "notion_url": "https://www.notion.so/100-DNI-W-LATAJ-CYM-STATKU-3500edd4876a8090b26ace21c04b8a07",
+      "icon": "⛵",
+      "title": "100 DNI W LATAJĄCYM STATKU",
+      "status": "WIP",
+      "series": [
+        "XP"
+      ],
+      "channel": "",
+      "recording_date": "",
+      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/latajacy-statek/pack.toml",
+      "pack_version": "1.0.0",
+      "mc": "1.21.1",
+      "index_hash": "c984c7c908bba0e85ce3d4470fb2011fec10cabef2835be199a12cae9e071ba9",
+      "loader": "neoforge",
+      "loader_version": "21.1.228"
+    },
+    {
+      "id": "neofftv-cml-ep1",
+      "notion_id": "",
+      "notion_url": "",
+      "icon": "📦",
+      "title": "CML NeoFFTV",
+      "status": "WIP",
+      "series": [],
+      "channel": "",
+      "recording_date": "",
+      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/neofftv-cml-ep1/pack.toml",
+      "pack_version": "1.6.28",
+      "mc": "1.21.1",
+      "index_hash": "e5a9298ef5794fc7e44b60903b13f4edf284074b4fc363142de8f1006a863275",
+      "loader": "neoforge",
+      "loader_version": "21.1.228"
+    },
     {
       "id": "xp-ewolucja-creepera",
       "notion_id": "3520edd4-876a-8015-bafd-dde8923ced33",
@@ -20,21 +56,19 @@
       "loader_version": "21.1.228"
     },
     {
-      "id": "latajacy-statek",
-      "notion_id": "3500edd4-876a-8090-b26a-ce21c04b8a07",
-      "notion_url": "https://www.notion.so/100-DNI-W-LATAJ-CYM-STATKU-3500edd4876a8090b26ace21c04b8a07",
-      "icon": "⛵",
-      "title": "100 DNI W LATAJĄCYM STATKU",
+      "id": "xp-ewolucja-dinozaura",
+      "notion_id": "",
+      "notion_url": "",
+      "icon": "📦",
+      "title": "XP to Ewolucja dinozaura",
       "status": "WIP",
-      "series": [
-        "XP"
-      ],
+      "series": [],
       "channel": "",
       "recording_date": "",
-      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/latajacy-statek/pack.toml",
+      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/xp-ewolucja-dinozaura/pack.toml",
       "pack_version": "1.0.0",
       "mc": "1.21.1",
-      "index_hash": "8d52feb8460160806acf08ef159c40c002303e1b27d07c9d9850fc3cceac6907",
+      "index_hash": "e763f7fa981526df136002e15e3a92cf1b2ca781203ff22cfaa084af692d97d7",
       "loader": "neoforge",
       "loader_version": "21.1.228"
     }
