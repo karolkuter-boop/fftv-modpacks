@@ -1,0 +1,2 @@
+soundCategory_master:0.5
+soundCategory_music:0.0

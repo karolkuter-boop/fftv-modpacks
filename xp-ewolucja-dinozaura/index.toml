@@ -204,3 +204,13 @@ metafile = true
 file = "mods/neofftv.pw.toml"
 hash = "96c3b690c6a7eab7d4ef0c8d531bfee8fc19d7074ef4f2a5505954517ea15134"
 metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "42d692016622a56b5a4152ce0d1e2441365f16a5598412a54ba00606b3c027d4"
+metafile = true
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "704cbec5fe363526ed5a6117fd0703666530b6feeea41cd47d420ae3657fdc64"
+metafile = true
