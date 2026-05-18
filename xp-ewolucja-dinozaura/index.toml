@@ -121,9 +121,6 @@ hash = "c0e220b215d7ff3b9594acc5ce2a92cd2bfe198031fda219ad3c9f88921dc1ba"
 metafile = true
 
 [[files]]
-hash = "af1d2f14f22e8e5d53b544d7e570646225cb81ce8d0b249fe30cada57a6d6fcb"
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
 metafile = true
