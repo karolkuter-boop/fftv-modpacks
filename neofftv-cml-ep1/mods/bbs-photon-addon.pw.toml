@@ -1,0 +1,13 @@
+name = "BBS Photon Addon"
+filename = "bbs-photon-addon-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L6FxEufx/versions/RlXG4PhG/bbs-photon-addon-1.1.0.jar"
+hash-format = "sha512"
+hash = "6c4101bd1ccdaab8a9ad5127652ace89f71e8fc1e838f4323e62e2d7a9b17aab4dd2b40c050be8da84e1df3de4348fdccd57f8d47c9d4b8432ae30bf9f1991de"
+
+[update]
+[update.modrinth]
+mod-id = "L6FxEufx"
+version = "RlXG4PhG"

@@ -1,0 +1,10 @@
+# Skompilowane pliki modów - binarne JARy nie lądują w repo
+*.jar
+!_template/
+
+# Cache packwiz
+.packwiz-cache/
+
+# OS
+.DS_Store
+Thumbs.db
