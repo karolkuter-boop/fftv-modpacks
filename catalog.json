@@ -1,16 +1,23 @@
 {
   "version": 1,
-  "updated": "2026-05-18T12:40:48.952627+00:00",
+  "updated": "2026-05-18T14:51:34.949455+00:00",
   "packs": [
     {
       "id": "xp-ewolucja-creepera",
       "notion_id": "3520edd4-876a-8015-bafd-dde8923ced33",
+      "notion_url": "https://www.notion.so/XP-TO-EWOLUCJA-CREEPERA-3520edd4876a8015bafddde8923ced33",
+      "icon": "🐉",
       "title": "XP TO EWOLUCJA CREEPERA",
       "status": "WIP",
       "series": [],
       "channel": "",
       "recording_date": "",
-      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/xp-ewolucja-creepera/pack.toml"
+      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/xp-ewolucja-creepera/pack.toml",
+      "pack_version": "1.0.0",
+      "mc": "1.21.1",
+      "index_hash": "9f219973ac98f8d24784e5475cb9bcbce7cd803a30415fb630e0f9b509f09efa",
+      "loader": "neoforge",
+      "loader_version": "21.1.228"
     }
   ]
 }
