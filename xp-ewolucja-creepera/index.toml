@@ -1,0 +1,4 @@
+hash-format = "sha256"
+
+# Packwiz auto-generuje ten plik po "packwiz refresh"
+# Nie edytuj ręcznie
