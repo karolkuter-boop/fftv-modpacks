@@ -1,0 +1,13 @@
+name = "Just Enough Guns Neoforge"
+filename = "jeg-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dxTydNDF/versions/6sBNEUxo/jeg-1.4.2.jar"
+hash-format = "sha512"
+hash = "d913e9df3c0c777a3a3b8bb85f9627b0a0fc38ab5e361c76c1ad7f74912283ba25c55335a2d42d2215f7a18371f5458964a7196cb4e08edde1f4122cb05ea4ea"
+
+[update]
+[update.modrinth]
+mod-id = "dxTydNDF"
+version = "6sBNEUxo"

@@ -1,0 +1,13 @@
+name = "Bbs Cml Edition"
+filename = "bbs-cml-edition-1.10.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/orQP37wm/versions/R7JBnQVf/bbs-cml-edition-1.10.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "31e54a6edcf74a9c132f1950b243c7fbe510eaaee2da811544ad41572f01b3ce411266d866a13cb59ccac0e062543ae89396ff7f16fa81633f31400c1d6f0385"
+
+[update]
+[update.modrinth]
+mod-id = "orQP37wm"
+version = "R7JBnQVf"

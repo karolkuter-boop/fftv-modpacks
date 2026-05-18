@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/aetherial-islands-clusters-edit.pw.toml"
+hash = "3e0836047def435d8c640853c9faa96ff3f8db7721d80405eaab385e8fd6b34f"
+metafile = true
+
+[[files]]
+file = "mods/aetherial-islands.pw.toml"
+hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "7836525298f9ca07bd463a036807bac1ff8c4aeb4b8d0716951ac85bc96e6fcf"
+metafile = true
+
+[[files]]
+file = "mods/bbs-cml-edition.pw.toml"
+hash = "4e3996d689f9aea5a1044c5b2cdd33acd7badba41fbabeb7ceec1440db160087"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "fe84563b3aca46da164dbdf31568acc52c34c4c55662d074df143c7788df62cc"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e0fd7b12f8d2f8151afd6c3b25a929874658969491ae226331373ecd3bacd4b3"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "c620513cd281dadb37e5ab3cba61e0baa0e904602cda2a08b0d2ba248eb46987"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/gabous-libs.pw.toml"
+hash = "9f52d3a1f4df0dd5ec1e4eeb4856ece0b17ebb5e9f1eac44b744cd9cca8e3cad"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-guns-neoforge.pw.toml"
+hash = "09611475444f3891aaca7449fe9bd588a43cdb8cb66b58d51bff7304c2807556"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "3feaa44ee0f6ef544d15e48b25c7d6c0e8c5f05d049b47e5bce521fbb6649dbd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+metafile = true
+
+[[files]]
+file = "mods/neofftv.pw.toml"
+hash = "92164c5798d86fcba47322915e527f34eb438a88289171f0cccba8e080ffad64"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/ui-lib.pw.toml"
+hash = "fcd203d7833e1010941a56f3f8469e8064c87b5e13caa3d16e9ec45bb19cc821"
+metafile = true
+
+[[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "d885d09d1a58bbf583b2b84d0a7268ef536afa503f8ff955cd35d3086a89e72b"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "26da583167cf97e2dd89bdf738dd2ad1358237c2b87ce3b593f47f6df1269df5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c0c1a12196ce4f56cfe1ebd99bd59d4632032dfbeff5d5ec21a76e6570b1aa44"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "71fa6888b5e8796965344c875efe3c6cc3f145916f7c8a8d9f797d54e6879508"
+metafile = true
