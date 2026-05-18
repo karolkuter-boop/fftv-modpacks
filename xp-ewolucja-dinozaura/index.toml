@@ -11,6 +11,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
+metafile = true
+
+[[files]]
 file = "mods/bbs-cml-edition.pw.toml"
 hash = "3948559df98bd10ef64fb8b01d6db15c1ae15fb03a539c08c024095dcd1600dd"
 metafile = true
@@ -171,6 +176,11 @@ hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
@@ -178,11 +188,6 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "26da583167cf97e2dd89bdf738dd2ad1358237c2b87ce3b593f47f6df1269df5"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
 metafile = true
 
 [[files]]
