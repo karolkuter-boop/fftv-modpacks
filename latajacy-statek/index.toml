@@ -36,6 +36,11 @@ hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "42d692016622a56b5a4152ce0d1e2441365f16a5598412a54ba00606b3c027d4"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
 metafile = true
@@ -146,11 +151,16 @@ hash = "71fa6888b5e8796965344c875efe3c6cc3f145916f7c8a8d9f797d54e6879508"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "42d692016622a56b5a4152ce0d1e2441365f16a5598412a54ba00606b3c027d4"
+file = "config/defaultoptions/options.txt"
+hash = "704cbec5fe363526ed5a6117fd0703666530b6feeea41cd47d420ae3657fdc64"
 metafile = true
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "704cbec5fe363526ed5a6117fd0703666530b6feeea41cd47d420ae3657fdc64"
+file = "mods/veil.pw.toml"
+hash = "fdfe39948f48da1518b38de133d164f6004cb65fe6b344fd5a9fda0eaba51063"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
 metafile = true
