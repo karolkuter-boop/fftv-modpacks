@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T15:19:36.748054+00:00",
+  "updated": "2026-05-18T15:26:11.139335+00:00",
   "packs": [
     {
       "id": "latajacy-statek",
@@ -17,7 +17,7 @@
       "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/latajacy-statek/pack.toml",
       "pack_version": "1.0.0",
       "mc": "1.21.1",
-      "index_hash": "f24c4aa72207de263a2bd9120a746f40af0db21119f8132c276b38011ddb59fd",
+      "index_hash": "6b8cad31e76fd2cf31e259bcd5ade888617d3daf14636409e486ea9df3d646a5",
       "loader": "neoforge",
       "loader_version": "21.1.228"
     },
