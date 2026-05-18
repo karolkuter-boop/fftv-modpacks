@@ -126,8 +126,18 @@ hash = "fcd203d7833e1010941a56f3f8469e8064c87b5e13caa3d16e9ec45bb19cc821"
 metafile = true
 
 [[files]]
+file = "mods/veil.pw.toml"
+hash = "fdfe39948f48da1518b38de133d164f6004cb65fe6b344fd5a9fda0eaba51063"
+metafile = true
+
+[[files]]
 file = "mods/vista-aeronautics-fix.pw.toml"
 hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
 metafile = true
 
 [[files]]
@@ -152,15 +162,8 @@ metafile = true
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "704cbec5fe363526ed5a6117fd0703666530b6feeea41cd47d420ae3657fdc64"
-metafile = true
+hash = "54580fc7bcf0e6d99fc731393a39aa9063b40150c0f97f0897d6dc7e2fda6a13"
 
 [[files]]
-file = "mods/veil.pw.toml"
-hash = "fdfe39948f48da1518b38de133d164f6004cb65fe6b344fd5a9fda0eaba51063"
-metafile = true
-
-[[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
-metafile = true
+file = "config/defaultoptions/servers.dat"
+hash = "ba1f2ccf22b3d3c6d91458a0f81d677175c7ca5ca5a9f901a42cb537a5ffb581"

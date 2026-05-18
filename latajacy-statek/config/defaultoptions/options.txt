@@ -1,2 +1,5 @@
+fov:90
+gamma:1.0
 soundCategory_master:0.5
 soundCategory_music:0.0
+narrator:0
