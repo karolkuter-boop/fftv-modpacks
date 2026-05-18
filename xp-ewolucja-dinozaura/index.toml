@@ -197,3 +197,8 @@ metafile = true
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true
+
+[[files]]
+file = "mods/neofftv.pw.toml"
+hash = "6cfa3562186ce4b28a856dd5913a476cf32e6692cf4c6b749cc020ea6f0e783e"
+metafile = true
