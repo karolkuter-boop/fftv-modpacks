@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T14:51:34.949455+00:00",
+  "updated": "2026-05-18T14:53:48.835120+00:00",
   "packs": [
     {
       "id": "xp-ewolucja-creepera",
@@ -16,6 +16,25 @@
       "pack_version": "1.0.0",
       "mc": "1.21.1",
       "index_hash": "9f219973ac98f8d24784e5475cb9bcbce7cd803a30415fb630e0f9b509f09efa",
+      "loader": "neoforge",
+      "loader_version": "21.1.228"
+    },
+    {
+      "id": "latajacy-statek",
+      "notion_id": "3500edd4-876a-8090-b26a-ce21c04b8a07",
+      "notion_url": "https://www.notion.so/100-DNI-W-LATAJ-CYM-STATKU-3500edd4876a8090b26ace21c04b8a07",
+      "icon": "⛵",
+      "title": "100 DNI W LATAJĄCYM STATKU",
+      "status": "WIP",
+      "series": [
+        "XP"
+      ],
+      "channel": "",
+      "recording_date": "",
+      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/latajacy-statek/pack.toml",
+      "pack_version": "1.0.0",
+      "mc": "1.21.1",
+      "index_hash": "8d52feb8460160806acf08ef159c40c002303e1b27d07c9d9850fc3cceac6907",
       "loader": "neoforge",
       "loader_version": "21.1.228"
     }
