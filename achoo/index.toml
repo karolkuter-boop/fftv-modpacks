@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/achoo.pw.toml"
+hash = "173603b129bb234f66f775b0465a467c6364e76e7b898e42f41ead4fbf115dee"
+metafile = true

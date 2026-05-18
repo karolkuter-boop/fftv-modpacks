@@ -1,7 +1,24 @@
 {
   "version": 1,
-  "updated": "2026-05-18T15:26:11.139335+00:00",
+  "updated": "2026-05-18T20:45:00+00:00",
   "packs": [
+    {
+      "id": "achoo",
+      "notion_id": "",
+      "notion_url": "https://www.notion.so/3640edd4876a81448282d6b125bb473e",
+      "icon": "🤧",
+      "title": "Achoo! — Alergie w Minecrafcie",
+      "status": "WIP",
+      "series": [],
+      "channel": "",
+      "recording_date": "",
+      "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/achoo/pack.toml",
+      "pack_version": "1.0.0",
+      "mc": "1.26.1.2",
+      "index_hash": "ef1b6e044345bf7e6f379d3be3f88180d109bf97325a3dff3443e31647c7c840",
+      "loader": "neoforge",
+      "loader_version": "26.1.2.59-beta"
+    },
     {
       "id": "latajacy-statek",
       "notion_id": "3500edd4-876a-8090-b26a-ce21c04b8a07",
