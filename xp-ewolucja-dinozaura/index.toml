@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "54580fc7bcf0e6d99fc731393a39aa9063b40150c0f97f0897d6dc7e2fda6a13"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "ba1f2ccf22b3d3c6d91458a0f81d677175c7ca5ca5a9f901a42cb537a5ffb581"
+
+[[files]]
 file = "mods/arc.pw.toml"
 hash = "9b8b023dbecab500697e69de1fb34fbadeb21728c6820f2783d0b6421fb2cd9e"
 metafile = true
@@ -38,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "42d692016622a56b5a4152ce0d1e2441365f16a5598412a54ba00606b3c027d4"
 metafile = true
 
 [[files]]
@@ -81,6 +94,11 @@ hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
+file = "mods/gjeb.pw.toml"
+hash = "5c734f8815b5d91c0a51eae58b72dd7f6931cced69791f57e1a23dc042dd0b40"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
@@ -111,6 +129,16 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/mcw-doors.pw.toml"
+hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
+metafile = true
+
+[[files]]
+file = "mods/mcw-fences.pw.toml"
+hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
 metafile = true
@@ -123,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/mutated-items.pw.toml"
 hash = "c0e220b215d7ff3b9594acc5ce2a92cd2bfe198031fda219ad3c9f88921dc1ba"
+metafile = true
+
+[[files]]
+file = "mods/neofftv.pw.toml"
+hash = "1b9e082623840d3702192e6eb43ed467dbcf40178f47f0e745da0ecd8e3ef741"
 metafile = true
 
 [[files]]
@@ -199,36 +232,3 @@ metafile = true
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true
-
-[[files]]
-file = "mods/neofftv.pw.toml"
-hash = "96c3b690c6a7eab7d4ef0c8d531bfee8fc19d7074ef4f2a5505954517ea15134"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "42d692016622a56b5a4152ce0d1e2441365f16a5598412a54ba00606b3c027d4"
-metafile = true
-
-[[files]]
-file = "mods/mcw-doors.pw.toml"
-hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
-metafile = true
-
-[[files]]
-file = "mods/mcw-fences.pw.toml"
-hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
-metafile = true
-
-[[files]]
-file = "mods/gjeb.pw.toml"
-hash = "5c734f8815b5d91c0a51eae58b72dd7f6931cced69791f57e1a23dc042dd0b40"
-metafile = true
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "54580fc7bcf0e6d99fc731393a39aa9063b40150c0f97f0897d6dc7e2fda6a13"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "ba1f2ccf22b3d3c6d91458a0f81d677175c7ca5ca5a9f901a42cb537a5ffb581"

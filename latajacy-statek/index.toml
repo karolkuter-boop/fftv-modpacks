@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "54580fc7bcf0e6d99fc731393a39aa9063b40150c0f97f0897d6dc7e2fda6a13"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "ba1f2ccf22b3d3c6d91458a0f81d677175c7ca5ca5a9f901a42cb537a5ffb581"
+
+[[files]]
 file = "mods/aetherial-islands-clusters-edit.pw.toml"
 hash = "3e0836047def435d8c640853c9faa96ff3f8db7721d80405eaab385e8fd6b34f"
 metafile = true
@@ -13,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7836525298f9ca07bd463a036807bac1ff8c4aeb4b8d0716951ac85bc96e6fcf"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
@@ -101,8 +114,13 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
+metafile = true
+
+[[files]]
 file = "mods/neofftv.pw.toml"
-hash = "96c3b690c6a7eab7d4ef0c8d531bfee8fc19d7074ef4f2a5505954517ea15134"
+hash = "1b9e082623840d3702192e6eb43ed467dbcf40178f47f0e745da0ecd8e3ef741"
 metafile = true
 
 [[files]]
@@ -159,21 +177,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "71fa6888b5e8796965344c875efe3c6cc3f145916f7c8a8d9f797d54e6879508"
 metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
-metafile = true
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "54580fc7bcf0e6d99fc731393a39aa9063b40150c0f97f0897d6dc7e2fda6a13"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "ba1f2ccf22b3d3c6d91458a0f81d677175c7ca5ca5a9f901a42cb537a5ffb581"
