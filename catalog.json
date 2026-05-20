@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T20:45:00+00:00",
+  "updated": "2026-05-20T11:44:24.951458+00:00",
   "packs": [
     {
       "id": "achoo",
@@ -85,7 +85,7 @@
       "packwiz_url": "https://karolkuter-boop.github.io/fftv-modpacks/xp-ewolucja-dinozaura/pack.toml",
       "pack_version": "1.0.0",
       "mc": "1.21.1",
-      "index_hash": "e763f7fa981526df136002e15e3a92cf1b2ca781203ff22cfaa084af692d97d7",
+      "index_hash": "ecc7d9710a20a72de0f6ae957ef88308719de8eda0fda19a34950da2ec9f7526",
       "loader": "neoforge",
       "loader_version": "21.1.228"
     }
