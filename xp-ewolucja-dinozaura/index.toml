@@ -211,6 +211,21 @@ hash = "42d692016622a56b5a4152ce0d1e2441365f16a5598412a54ba00606b3c027d4"
 metafile = true
 
 [[files]]
+file = "mods/mcw-doors.pw.toml"
+hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
+metafile = true
+
+[[files]]
+file = "mods/mcw-fences.pw.toml"
+hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
+metafile = true
+
+[[files]]
+file = "mods/gjeb.pw.toml"
+hash = "5c734f8815b5d91c0a51eae58b72dd7f6931cced69791f57e1a23dc042dd0b40"
+metafile = true
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "54580fc7bcf0e6d99fc731393a39aa9063b40150c0f97f0897d6dc7e2fda6a13"
 

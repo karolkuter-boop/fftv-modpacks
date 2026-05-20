@@ -1,0 +1,13 @@
+name = "GJEB (GammaJustExtremeBright)"
+filename = "gjeb-neoforge-1.21.1-1.3.0.40.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CWbHbRfF/versions/KYgV3Yo8/gjeb-neoforge-1.21.1-1.3.0.40.jar"
+hash-format = "sha512"
+hash = "9782558d8083ff8d465d7288bb5562a9941729e57906ab8931da7d92e84c2912cfd8b79106ca33d38994d4050134415f9618d5905a80c18ef7521774e6c687a4"
+
+[update]
+[update.modrinth]
+mod-id = "CWbHbRfF"
+version = "KYgV3Yo8"
