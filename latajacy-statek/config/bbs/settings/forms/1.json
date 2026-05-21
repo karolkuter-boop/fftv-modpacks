@@ -1,0 +1,31 @@
+{
+    "title": "FFTV Legendy",
+    "id": "fftv-legendy-category",
+    "forms": [
+        {
+            "id": "bbs:mob",
+            "name": "Goatman",
+            "mobId": "neofftv:legend_goatman"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Bloop",
+            "mobId": "neofftv:legend_bloop"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Fog Man",
+            "mobId": "neofftv:legend_fog_man"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Smiler",
+            "mobId": "neofftv:legend_smiler"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Prison Myth",
+            "mobId": "neofftv:prison_myth"
+        }
+    ]
+}

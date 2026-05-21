@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bbs/settings/forms/0.json"
+hash = "6c7770591c6481e48f2ae8c6071fc745afa0422402bc8d2549529aa21adcab9a"
+
+[[files]]
+file = "config/bbs/settings/forms/1.json"
+hash = "d1b492ce855f11b43d88be26a34edc8a217b9bbd62d0e2baf303487d5ed339f8"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "54580fc7bcf0e6d99fc731393a39aa9063b40150c0f97f0897d6dc7e2fda6a13"
 
@@ -155,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/neofftv.pw.toml"
-hash = "7e805fa3964fd224dc38d9b6f53f7db5d1190a43bc2ab4c5d8ed2afb38dd7ef9"
+hash = "cbab89a0bab3ccd1fb9153077ca98d6dec244855f175684b97ce27b158dc502b"
 metafile = true
 
 [[files]]
