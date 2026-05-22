@@ -1,8 +1,8 @@
 name = "NeoFFTV"
-filename = "neofftv-1.25.16.jar"
+filename = "neofftv-1.25.17.jar"
 side = "both"
 
 [download]
-url = "https://karolkuter-boop.github.io/fftv-modpacks/mods-cdn/neofftv-1.25.16.jar"
+url = "https://karolkuter-boop.github.io/fftv-modpacks/mods-cdn/neofftv-1.25.17.jar"
 hash-format = "sha256"
-hash = "d0a2f43054ac816d82133fe6dd8f6c9168c1d3f2784fe3499eccca5a9bebe27a"
+hash = "01bda22445359b455e27c23d18d5a245d65dbb3b07ad79ed35f8a4bdb1b9b453"
