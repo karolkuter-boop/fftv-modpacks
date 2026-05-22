@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bbs/settings/forms/0.json"
+hash = "6c7770591c6481e48f2ae8c6071fc745afa0422402bc8d2549529aa21adcab9a"
+
+[[files]]
+file = "config/bbs/settings/forms/1.json"
+hash = "d1b492ce855f11b43d88be26a34edc8a217b9bbd62d0e2baf303487d5ed339f8"
+
+[[files]]
 file = "mods/arc.pw.toml"
 hash = "9b8b023dbecab500697e69de1fb34fbadeb21728c6820f2783d0b6421fb2cd9e"
 metafile = true
@@ -121,8 +129,8 @@ hash = "c0e220b215d7ff3b9594acc5ce2a92cd2bfe198031fda219ad3c9f88921dc1ba"
 metafile = true
 
 [[files]]
-file = "mods/neofftv-1.16.1.jar"
-hash = "12fea0113d0cd17494b333d6bf3c1428302a40a178c06928fd2933f120aecb0b"
+file = "mods/neofftv-1.23.0.jar"
+hash = "26335186915fdb7502317e379a13646c5a18035b0f3b6528c01309b848db3c38"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
