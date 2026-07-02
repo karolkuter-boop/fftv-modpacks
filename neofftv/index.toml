@@ -1,0 +1,242 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bbs/settings/forms/0.json"
+hash = "18b3a8f4c597ec8380d87e86133131e9faec567a761131b5893ac5a1a63739f7"
+
+[[files]]
+file = "config/bbs/settings/forms/1.json"
+hash = "2cbd37694e2d16cb38c61fe2ebe61507d0d25c7fa4d56cf7a83790802602c309"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f3ed551678f26060b9cb99ead8e7704b9401646c34943d45b53426efe0165b46"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "ba1f2ccf22b3d3c6d91458a0f81d677175c7ca5ca5a9f901a42cb537a5ffb581"
+
+[[files]]
+file = "mods/arc.pw.toml"
+hash = "f353f228cd0fee5109d5aab7e75784827cdcf98539311b6dbfa7fff98226bc91"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6a9ca5c65d6ba60d1a9e5c8c3d9607fd70a6912dabe8f99cc74de4233d68108f"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "20622143f3057d7a1353587a833de89d4db1fc7185193ed2dce7c6d044d5772a"
+metafile = true
+
+[[files]]
+file = "mods/bbs-cml-edition.pw.toml"
+hash = "6e21d49d401b0063b0583a61cacd27df4073dbb518cab2f7d88ededf885e8a5e"
+metafile = true
+
+[[files]]
+file = "mods/bbs-photon-addon.pw.toml"
+hash = "04af60f275d249058932922c17a6818ddd1e78ffbc5dfdd794ed1652e310734a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "a1ea92ffe3fc0682624b8b1abe65c3cbc0cb138ff4330740f23af1a0ef8a8e39"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "c460ea61c0da90cba5859f0d192b7abcff42f1ec07a5de1aa375ea522df7d80f"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "e66c8649557c5df5d660e64b635576f8aa836c05b14e915b8f4ae119c704d7bf"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "13123c51cf9fc4f3c69fd00ac4f0815c693681ee69161a367a22253eb2abd489"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building-sophisticated.pw.toml"
+hash = "6b9a3813c8055e4577082c2c2e893ac317469429a98981195dffe7f09bcfda9a"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "e82b7ff02f30ae342c92a74f00d4bad9acaab3ea99da9c7a623274c58ce1454e"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4629c0df10c3f898e1cb5ee7b8fb0da72925a214f2f76b303b07eca9faf77ddf"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "26d3a8af113cca71d0e8634656941556613d993ccbbd18ea38fda4cc96244a52"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "67f7b4ff6681b028e1a95917cfba7ae9e41d5fc53359b84e88168a83800469f7"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "82e215e86e950899b2793efdb08d5fe49966a338ab1fe278d6e7124a475cbc17"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "1aa70effe08b00be46d4461301e327ddfa635cb09a9cd79d802522ec979464ad"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "6c539ea1c6b8a225548301e20158c937aebce0ae3c1122fa73dab25f8ab6cf0a"
+metafile = true
+
+[[files]]
+file = "mods/gjeb.pw.toml"
+hash = "857e93e803c820bbc65b1d4c8abcb832cc69ab5482183ca8499e962661f61045"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d375cf71d0a19583e686b88acac659b9ce7405ed2f5893ace265285a7071bf1f"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a5dbb701e3c7e377cfbd6a595a0e743eee8471f07962712ac89ae34874f6b65d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-guns-neoforge.pw.toml"
+hash = "4a0dc39c72254c483b9c949e7be6d2813c6b89d200a6dcb2505ed5473c56e4f3"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "6c71e8e3e943568f609b67c04875acaeec6f2f474e35e1fa904ee9c862bd164c"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "fe472d542c3d7eb19f31b9e9320fcef9776f4723680997e8bf3c12e79b293cc6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "08dc422d9c30fc19b569033f7cfd2abcd50134f618fe335b396b41dc6f5f3834"
+metafile = true
+
+[[files]]
+file = "mods/mcw-doors.pw.toml"
+hash = "4060243dd7a40f39604b204938814a2f768f7f0b204cea5b9363b8fc5bfe8304"
+metafile = true
+
+[[files]]
+file = "mods/mcw-fences.pw.toml"
+hash = "2e9bb47e5b0bf51012b5c9e49616299905aa2190e3dbefeb262087687fc1252f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "0b3619eced193d1e7e002ea97e1e3d5aef5e539e33983f076ef78ad3108e00e5"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "a546f46d69e859da639959692a095a3715f499771d6db1844a8fecd6e61f8365"
+metafile = true
+
+[[files]]
+file = "mods/mutated-items.pw.toml"
+hash = "ffa41c0654481d484226e344bcb5ec138701850a410fc82a95556b29742bf6d5"
+metafile = true
+
+[[files]]
+file = "mods/neofftv.pw.toml"
+hash = "69e4663122c5d704ea957ffb1ac52f8c9073cfe108d701428f22d5b967dc262a"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e773d1924b2c43e2c2afd3e0af285162b78131cbef9cd1cca7bedd13ddfd79ee"
+metafile = true
+
+[[files]]
+file = "mods/photon-editor.pw.toml"
+hash = "e07bea3d6a91c72c0457545d9d38a24ea310cf78018dfc441704d83fc729ef38"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a4a26382991e10fa067c2bd8bbeb754ced41c2cfaedb54967c192986a2837e23"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "6a779976b6752d63fbbb74504c4f0ed74c1df1aa3dfc86c45867eab5cf201a03"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "65afe097d1e9398cace283b6c510222e7cc0b4cfd19ddea54e9ee6d5ddbf06e2"
+metafile = true
+
+[[files]]
+file = "mods/ui-lib.pw.toml"
+hash = "a60e0bbf71352dfe6933517582af2304cf01821cf02baa947c602101fcf3d4dc"
+metafile = true
+
+[[files]]
+file = "mods/veil.pw.toml"
+hash = "51daf13fb97e63db2754aeed4335632f9e428ca43a08f91685215c9139e79ab6"
+metafile = true
+
+[[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "3de56e08b6ffc7bd3e4d02ed90efcce132f62b8dd6b4f2450807706f11d31e6d"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "f172477c3fe680f7e1f3be14580c5701d895f3fa09870ab6f02193abdc51be41"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "6edf00ad90bdd852b16c259f1cb8fb4fc9242cbf09f06490f2e0bf9d6ca33e2a"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f1670113ba6c7687790c33c13521505caf0fb59a50a253e9533e9f6ebe3cf8c9"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "ae739376a7881a00f0593de5f9255dfd5fe911e78157ccc9551976250d191d26"
+metafile = true
+
+[[files]]
+file = "mods/yaml-config.pw.toml"
+hash = "c86c2a7a2af93101528f32f15a7e16078279bc77089ceb8b85fd7972273ea729"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "d6f6318e79d7bb34ead5fb36f275c1be329929b98b26bc1bbeff089c39819991"
+metafile = true

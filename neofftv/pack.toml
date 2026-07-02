@@ -1,0 +1,13 @@
+name = "NeoFFTV"
+author = "karolkuter-boop"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "adec92d025dfbba9ce6fe73c24c1d0c6faa3d04b6a99f809a02dd355c2e875ce"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

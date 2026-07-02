@@ -1,0 +1,36 @@
+{
+    "title": "FFTV Creepery",
+    "id": "fftv-creepery-category",
+    "forms": [
+        {
+            "id": "bbs:mob",
+            "name": "Mega Creeper",
+            "mobId": "neofftv:mega_creeper"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Sniper Creeper",
+            "mobId": "neofftv:sniper_creeper"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Spider Creeper",
+            "mobId": "neofftv:spider_creeper"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Creeperling",
+            "mobId": "neofftv:creeperling"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Giga Kot",
+            "mobId": "neofftv:giga_cat"
+        },
+        {
+            "id": "bbs:mob",
+            "name": "Creeper Giga Kot",
+            "mobId": "neofftv:creeper_giga_cat"
+        }
+    ]
+}
